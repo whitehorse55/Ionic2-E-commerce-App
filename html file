@@ -1,0 +1,6 @@
+
+<ion-content class="dialog_page-collect" center (tap)="onclickDialogBox($event)">
+    <ion-card class="dialog_page_card center">
+        <img src="assets/img/dialog1.png"/>
+      </ion-card>
+</ion-content>
