@@ -1,0 +1,20 @@
+page-dialog1 {
+
+    .dialog_page-collect
+    {  
+        background-color: rgba(0, 0, 0, 0.4);
+        padding: 10%;
+    }
+
+    .dialog_page_card
+    {
+        position: absolute;
+        background-color: white;
+        border-radius: 15px;
+        width: 80%;
+        // height: 55%;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+    }
+}
